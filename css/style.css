@@ -1,0 +1,15 @@
+.my-bg-black{
+    background-color:black;
+    height:20px;
+}
+
+/* body{
+    overflow-x: hidden;;
+} */
+
+.my-bg-img{
+    background-image: url(../img/jumbo-bg.png);
+    height:500px;
+    
+}
+
