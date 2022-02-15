@@ -14,5 +14,17 @@
     border:white solid 2px;
 }
 
+.my-box{
+    background-color:palegreen;
+    height:400px;
+    border: 2px solid black;
+}
+
+.my-device-cards{
+    background-color:aquamarine;
+    height:100px;
+    border:2px solid white;
+}
+
 
 
