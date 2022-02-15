@@ -3,13 +3,16 @@
     height:20px;
 }
 
-/* body{
-    overflow-x: hidden;;
-} */
-
-.my-bg-img{
-    background-image: url(../img/jumbo-bg.png);
+.my-bg-darkgreen{
+    background-color: darkgreen;
     height:500px;
-    
 }
+
+.my-card{
+    background-color:rgb(48, 144, 67);
+    height:200px;
+    border:white solid 2px;
+}
+
+
 
