@@ -28,10 +28,6 @@
     width:55%;
 }
 
-/* To be change or removed */
-
-
-
 
 /* section game cards  */
 
@@ -52,12 +48,30 @@
     width:100%;
 }
 
-/* .my-card-img img{
+/* section banner */
+
+#banner{
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-position: center;
+    background-size: cover;
+
+    padding:2rem 0;
+
+}
+
+#banner img{
     width:50%;
-} */
+}
 
+/* section banner playstation plus */
 
+.my-bg-lightgray{
+    background-color: lightgray;
+}
 
+.my-bg-darkblue{
+    background-color: #161c3b;
+}
 /* section  game cards-nuove uscite */
 
 .my-bg-gray{
