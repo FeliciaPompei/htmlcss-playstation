@@ -110,6 +110,10 @@ footer{
     background-color:#00439c;
 }
 
-.my-footer-song-logo img{
+.my-footer-language-logo img{
+    width:20px;
+}
+
+.my-footer-logo img{
     width:150px;
 }
