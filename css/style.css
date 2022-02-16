@@ -78,5 +78,18 @@
     background-color:#1f1f1f;
 }
 
+.fa-registered{
+    vertical-align: super;
+    font-size:0.9rem;
+}
 
+/* Banner */
 
+.my-img-size{
+    width:50%;
+    padding-top: 8rem;
+}
+
+.my-img{
+    width:90%;
+}
