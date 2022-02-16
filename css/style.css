@@ -16,21 +16,21 @@
 
 /* section Jumbotron */
 
+#jumbotron{
+    padding: 15rem 0 3rem;
+
+    background-image: url(../img/jumbo-bg.png);
+    background-position: center;
+    background-size: cover;
+}
+
+#jumbotron img{
+    width:55%;
+}
+
 /* To be change or removed */
-.my-img-position{
-    object-fit: contain;
-    
-    width:100%;
-}
 
-.my-bg-darkgreen{
-    background-color: darkgreen;
-    height:500px;
-}
 
-.my-row{
-    height:500px;
-}
 
 
 /* section game cards  */
