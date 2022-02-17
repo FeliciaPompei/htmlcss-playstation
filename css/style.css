@@ -45,11 +45,15 @@
 
 
 /* section game cards  */
+.my-active{
+    border-bottom:rgb(0, 0, 255) 2px solid;
+}
 
-
+.my-active .my-card-img img{
+    opacity: 1;
+}
 .my-card img{
     border-radius:30px;
-    
 }
 
 /* section Playstation Console */
@@ -58,12 +62,10 @@
     font-size:0.9rem;
 }
 
-.my-box img{
-    width:100%;
-}
 
 .my-card-img img{
     width:70%;
+    opacity: 0.5;
 }
 
 /* section Banner (it takes two) */
@@ -120,4 +122,20 @@ footer{
 
 .my-footer-logo img{
     width:150px;
+}
+
+
+/* HOVER */
+
+.fa-chevron-down:hover{
+    color:rgb(0, 0, 255);
+}
+
+.my-card:hover{
+    border-bottom:rgb(0, 0, 255) 2px solid;
+}
+
+
+.my-card:hover .my-card-img img{
+    opacity: 1;
 }
