@@ -45,6 +45,18 @@
 
 
 /* section game cards  */
+
+.my-card img{
+    border-radius:30px;
+}
+
+/* section Playstation Console */
+
+
+.my-font-size{
+    font-size:0.9rem;
+}
+
 .my-active{
     border-bottom:rgb(0, 0, 255) 2px solid;
 }
@@ -52,16 +64,6 @@
 .my-active .my-card-img img{
     opacity: 1;
 }
-.my-card img{
-    border-radius:30px;
-}
-
-/* section Playstation Console */
-
-.my-font-size{
-    font-size:0.9rem;
-}
-
 
 .my-card-img img{
     width:70%;
@@ -131,11 +133,16 @@ footer{
     color:rgb(0, 0, 255);
 }
 
-.my-card:hover{
+
+.my-card img:hover{
+    padding-bottom:1rem;
+}
+
+.my-card-wrapper:hover{
     border-bottom:rgb(0, 0, 255) 2px solid;
 }
 
 
-.my-card:hover .my-card-img img{
+.my-card-wrapper:hover .my-card-img img{
     opacity: 1;
 }
