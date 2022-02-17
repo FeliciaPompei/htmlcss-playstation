@@ -90,6 +90,14 @@
     background-color:#1f1f1f;
 }
 
+.my-game-description{
+    display:none;
+    background-color:rgba(0,0, 0, 0.7);
+    border-radius:30px;
+    padding:1rem;
+
+}
+
 .fa-registered{
     vertical-align: super;
     font-size:0.9rem;
@@ -146,3 +154,12 @@ footer{
 .my-card-wrapper:hover .my-card-img img{
     opacity: 1;
 }
+
+.my-game-cover:hover img,
+.my-game-cover:hover .card-title{
+    display:none;
+}
+.my-game-cover:hover .my-game-description{
+    display:block;
+}
+
