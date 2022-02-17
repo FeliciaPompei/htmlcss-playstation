@@ -7,6 +7,10 @@
 
 /* Header */
 
+.my-header-height{
+    height:100px;
+}
+
 .my-bg-black{
     background-color:black;
 }
