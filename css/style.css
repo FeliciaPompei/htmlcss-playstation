@@ -134,8 +134,8 @@ footer{
 }
 
 
-.my-card img:hover{
-    padding-bottom:1rem;
+.my-card-hover:hover{
+    margin-top: 1rem;
 }
 
 .my-card-wrapper:hover{
