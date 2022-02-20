@@ -34,9 +34,6 @@
     font-size: 0.6rem;
 }
 
-.my-search-img{
-    width:50%;
-}
 
 /* section Jumbotron */
 
@@ -48,9 +45,6 @@
     background-size: cover;
 }
 
-#jumbotron img{
-    width:55%;
-}
 
 
 /* section game cards  */
@@ -89,9 +83,6 @@
     background-size: cover;   
 }
 
-#banner img{
-    width:50%;
-}
 
 /* section game-cards nuove uscite */
 
